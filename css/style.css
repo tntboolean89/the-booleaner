@@ -1,0 +1,17 @@
+/* 
+-----------------------------
+Header
+-----------------------------
+*/
+
+
+header {
+    background-image: url('../img/pattern.png');
+    background-color: hsl(212, 100%, 65%);
+    background-size: 25%;
+    padding-top: 40px;
+}
+
+.logo {
+    height: 50px;
+}
