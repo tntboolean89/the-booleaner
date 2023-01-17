@@ -56,3 +56,31 @@ Immagini
     font-size: 12px;
     color: gray;
 }
+
+.highlights {
+    background-color: yellow;
+}
+
+.todo {
+    padding: 0;
+    list-style-position: inside;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+.odd {
+    background-color: aquamarine;
+}
+
+.text {
+    width: 50%;
+}
